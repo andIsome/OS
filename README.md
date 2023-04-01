@@ -7,3 +7,10 @@ Controls:
 * Turn Tetramino A/D
 * Move Tetramino UP/DOWN/RIGHT/LEFT arrow key
 * Reset game F2
+
+### Run:
+```./run.sh```
+
+### Requirements:
+- To run the os qemu-system-x86_64 is needed ```sudo apt-get install qemu-system-x86_64``` <br>
+- To make changes or recompile, run the gcc cross compiler setup script
