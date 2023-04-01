@@ -14,3 +14,6 @@ Controls:
 ### Requirements:
 - To run the os qemu-system-x86_64 is needed ```sudo apt-get install qemu-system-x86_64``` <br>
 - To make changes or recompile, run the gcc cross compiler setup script
+
+### Credits:
+- Idea from jdh https://www.youtube.com/watch?v=FaILnmUYS_U&ab_channel=jdh
